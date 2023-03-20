@@ -13,7 +13,7 @@ dst2 = cv2.cvtColor(src, cv2.COLOR_BGR2HSV)
 
 
 
-# 영상 디스플레이
+11# 영상 디스플레이
 cv2.imshow('src', src)
 cv2.imshow('dst1', dst1)
 cv2.imshow('dst2', dst2)
